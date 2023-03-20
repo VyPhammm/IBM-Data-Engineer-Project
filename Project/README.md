@@ -1,23 +1,48 @@
-IBM Data Engineering Professional Certificate
+# IBM-Data-Engineer-Project Project
 
-## About The Course
+## Introduction 
 
-This Professional Certificate is for anyone who wants to develop job-ready skills, tools, and a portfolio for an entry-level data engineer position. Throughout the self-paced online courses, you will immerse yourself in the role of a data engineer and acquire the essential skills you need to work with a range of tools and databases to design, deploy, and manage structured and unstructured data.  
+In this project, I will:
+1) Design a data platform that uses MySQL as an OLTP database and MongoDB as a NoSQL database. 
+2) Design and implement a data warehouse and generate reports from the data. 
+3) Design a reporting dashboard that reflects the key metrics of the business. 
+4) Extract data from OLTP and NoSQL databases, transform it and load it into the data warehouse. 
+5) Create an ETL pipeline. 
+6) Finally, create a Spark connection to the data warehouse, and then deploy a machine learning model.
 
-By the end of this Professional Certificate, you will be able to explain and perform the key tasks required in a data engineering role. You will use the Python programming language and Linux/UNIX shell scripts to extract, transform and load (ETL) data. You will work with Relational Databases (RDBMS) and query data using SQL statements. You will use NoSQL databases and unstructured data.  You will be introduced to Big Data and work with Big Data engines like Hadoop and Spark.  You will gain experience with creating Data Warehouses and utilize Business Intelligence tools to analyze and extract insights.   
+I am going to use different technologies such as Python, MySQL, NoSQL, Apache Airflow , Apache Spark.
 
-More details about the professional certificate here: <a href=https://www.coursera.org/professional-certificates/ibm-data-engineer><strong>IBM Data Engineering Professional Certificate</strong></a>
+## Task To perform:
 
-## Specialization Syllabus
+1/ Set up the Database
+  + Design the OLTP database
+  + Populate the OLTP database with the provided data
+  + Load the daily incremental data into the data warehouse
+ 
+ 2/ Set up the Data Repository
+  + Set up NoSQL to store data
+  + Load data into NoSQL
+  + Query data in NoSQL database
+ 
+ 3/ Build the Data Warehouse
+  + Design the schema for a data warehouse
+  + Create the schema and load the data into fact and dimension tables
+  + Automate the daily incremental data
+  + Create Cubes and Rollups
+ 
+ 4/ Data Analytics-Create a Dashboard
+  + Create a Cognos data source
+  + Create a bar chart
+  + Create a pie chart
+  + Create a line chart
+ 
+ 5/ Create an ETL Pipeline with Airflow
+  + Extract data from OLTP, NoSQL, and MongoDB databases
+  + Transform OLTP data
+  + Load transformed data
+ 
+ 6/ Cretae a Spark connection & ML model
+  + Create a Spqrk connection to the data warehouse
+  + Deploy a machine learning model on SparkML
 
-This Professional Certificate contains 13 courses, as follows:
-
-## Certification
-
-![Loc Nguyen's Certification](./Assets/IBM_Data_Engineer_Certification.jpg)
-
-## Contact
-
-Loc Nguyen Dang - lc.nguyedang123@gmail.com
-Linkedin: [locnd172](https://www.linkedin.com/in/locnd172/)
-Facebook: [Lộc](https://www.facebook.com/)
+## Finish
