@@ -1,14 +1,12 @@
-# IBM-Data-Engineer-Project Project
+# IBM Data Engineer Project
 
 ## Introduction 
 
-In this project, I will:
-1) Design a data platform that uses MySQL as an OLTP database and MongoDB as a NoSQL database. 
-2) Design and implement a data warehouse and generate reports from the data. 
-3) Design a reporting dashboard that reflects the key metrics of the business. 
-4) Extract data from OLTP and NoSQL databases, transform it and load it into the data warehouse. 
-5) Create an ETL pipeline. 
-6) Finally, create a Spark connection to the data warehouse, and then deploy a machine learning model.
+In this project, I will assume the role of an Associate Data Engineer who has recently joined an e-commerce organization. You will be presented with a business challenge that requires building a data platform for retailer data analytics. 
+
+I will:
+
+Design a data platform that uses MySQL as an OLTP database and MongoDB as a NoSQL database. Design and implement a data warehouse and generate reports from the data. Design a reporting dashboard that reflects the key metrics of the business. Extract data from OLTP and NoSQL databases, transform it and load it into the data warehouse, and then create an ETL pipeline. And finally, create a Spark connection to the data warehouse, and then deploy a machine learning model.
 
 I am going to use different technologies such as Python, MySQL, NoSQL, Apache Airflow , Apache Spark.
 
