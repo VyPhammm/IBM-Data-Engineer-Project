@@ -13,33 +13,33 @@ More details about the professional certificate here: <a href=https://www.course
 
 This Professional Certificate contains 13 courses, as follows:
 
-| No. | Course                                                               |Status|
+| No. | Course 
 
-| 01     | [Introduction to Data Engineering]|✅|
+| 01     | Introduction to Data Engineering
 
-| 02     | [Python for Data Science, AI & Development]|✅|
+| 02     | Python for Data Science, AI & Development
 
-| 03     | [Python Project for Data Engineering]|✅|
+| 03     | Python Project for Data Engineering
 
-| 04     | [Introduction to Relational Databases (RDBMS)]|✅|
+| 04     | Introduction to Relational Databases (RDBMS)
 
-| 05     | [Databases and SQL for Data Science with Python]|✅|
+| 05     | Databases and SQL for Data Science with Python
 
-| 06     | [Hands-on Introduction to Linux Commands and Shell Scripting]|✅|
+| 06     | Hands-on Introduction to Linux Commands and Shell Scripting
 
-| 07     | [Relational Database Administration (DBA)]|✅|
+| 07     | Relational Database Administration (DBA)
 
-| 08     | [ETL and Data Pipelines with Shell, Airflow and Kafka]|✅|
+| 08     | ETL and Data Pipelines with Shell, Airflow and Kafka]
 
-| 09     | [Getting Started with Data Warehousing and BI Analytics]|✅|
+| 09     | Getting Started with Data Warehousing and BI Analytics]
 
-| 10     | [Introduction to NoSQL Databases]|✅|
+| 10     | Introduction to NoSQL Databases]
 
-| 11     | [Introduction to Big Data with Spark and Hadoop]|✅|
+| 11     | Introduction to Big Data with Spark and Hadoop
 
-| 12     | [Data Engineering and Machine Learning using Spark]|✅|
+| 12     | Data Engineering and Machine Learning using Spark
 
-| 13     | [Data Engineering Capstone Project]|✅|
+| 13     | Data Engineering Capstone Project
 
 
 ## Contact
