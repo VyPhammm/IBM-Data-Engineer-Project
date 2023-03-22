@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-In this project, I will assume the role of an Associate Data Engineer who has recently joined an e-commerce organization. You will be presented with a business challenge that requires building a data platform for retailer data analytics. 
+In this project, I will assume the role of an Associate Data Engineer who has recently joined an e-commerce organization. I will be presented with a business challenge that requires building a data platform for retailer data analytics. 
 
 I will:
 
